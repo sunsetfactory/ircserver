@@ -1,4 +1,4 @@
-SERVER=server
+SERVER=ircserv
 
 MAKEFLAGS += -j
 
